@@ -38,3 +38,7 @@ footer > a {
     margin-right: 10px;
     text-decoration: none;
 }
+#banner {
+    width: 100%;
+    height: auto;
+}
